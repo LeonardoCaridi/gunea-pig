@@ -10,14 +10,14 @@
 # There are some restrictions on what makes a valid project name
 # specification here:
 # https://packaging.python.org/specifications/core-metadata/#name
-name = "samplerep"
+name = "gunea_pig"
 
 # Versions should comply with PEP 440:
 # https://www.python.org/dev/peps/pep-0440/
 #
 # For a discussion on single-sourcing the version, see
 # https://packaging.python.org/guides/single-sourcing-package-version/
-version = "0.0.a0"  # Required
+version = "1"  # Required
 
 # This is a one-line description or tagline of what your project does. This
 # corresponds to the "Summary" metadata field:
@@ -57,14 +57,14 @@ license = {file = "LICENSE"}
 # authored the project, and a valid email address corresponding to the name
 # listed.
 authors = [
-  {name = "Luca Baldini", email = "luca.baldini@pi.infn.it"}
+  {name = ""Leonardo Caridi", email = "leonardocaridi00@gmail.com"}
 ]
 
 # This should be your name or the names of the organization who currently
 # maintains the project, and a valid email address corresponding to the name
 # listed.
 maintainers = [
-  {name = "Luca Baldini", email = "luca.baldini@pi.infn.it"}
+  {name = "Leonardo Caridi", email = "leonardocaridi00@gmail.com"}
 ]
 
 # Classifiers help users find your project by categorizing it.
@@ -79,7 +79,7 @@ classifiers = [
 
   # Indicate who your project is intended for
   "Intended Audience :: Science/Research",
-  "Topic :: Scientific/Engineering :: Astronomy",
+  "Topic :: Scientific/Engineering :: University",
 
   # Pick your license as you wish
   "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
@@ -129,8 +129,8 @@ dependencies = [
 # maintainers, and where to support the project financially. The key is
 # what's used to render the link text on PyPI.
 [project.urls]  # Optional
-"Homepage" = "https://github.com/lucabaldini/samplerep"
-"Bug Reports" = "https://github.com/lucabaldini/samplerep/issues"
+"Homepage" = "https://github.com/LeonardoCaridi/gunea_pig"
+"Bug Reports" = "https://github.com/LeonardoCaridi/gunea_pig/issues"
 
 # The following would provide a command line executable called `sample`
 # which executes the function `main` from this package when invoked.
