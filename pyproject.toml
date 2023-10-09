@@ -57,7 +57,7 @@ license = {file = "LICENSE"}
 # authored the project, and a valid email address corresponding to the name
 # listed.
 authors = [
-  {name = ""Leonardo Caridi", email = "leonardocaridi00@gmail.com"}
+  {name = "Leonardo Caridi", email = "leonardocaridi00@gmail.com"}
 ]
 
 # This should be your name or the names of the organization who currently
